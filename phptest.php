@@ -8,6 +8,16 @@
     <title>Document</title>
 </head>
 <body>
+<h1>HEJ</h1>
+<br>
+<?php
+$kanin = 12 ;
+$hare=" hare";
+$donut= 444;
+$bart = "Homers barn";
+$age =17.8;
+echo $kanin;
+?>
 
 </body>
 </html>
