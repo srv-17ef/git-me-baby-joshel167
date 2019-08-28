@@ -14,10 +14,43 @@
 $kanin = 12 ;
 $hare=" hare";
 $donut= 444;
+
+
 $bart = "Homers barn";
 $age =17.8;
+$a = 21;
 echo $kanin;
+if($age<$donut)
+
+{echo "10";
+}
+echo"<br>";
+switch($kanin){
+    case $kanin:
+        echo $donut;
+        echo "<br>";
+    case 12:
+        echo $hare;
+        break;
+
+
+    }
+ for ($i = 1; $i <= 102; $i++) {
+     if($i===1){
+        echo "<br>$i elefant balanserade
+på en liten spindel-tråd
+Det tyckte han var så intressant,
+så han gick och hämtade en annan elefant. <br>" ;
+     }
+     else if($i >= 2){echo "$i elefanter balanserade
+på en liten spindel-tråd
+Det tyckte han var så intressant,
+så han gick och hämtade en annan elefant.<br>";}}
+
+
+
 ?>
+
 
 </body>
 </html>
